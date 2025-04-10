@@ -2,7 +2,7 @@
 
 <br><br>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/D3FaltXD/Weather-Cat)
+![GitHub repo size](https://img.shields.io/github/repo-size/kushvanth7/Weather-Cat)
 ![GitHub stars](https://img.shields.io/github/stars/D3FaltXD/Weather-Cat)
 ![GitHub forks](https://img.shields.io/github/forks/D3FaltXD/Weather-Cat)
 <br>
@@ -57,18 +57,18 @@ Bot prefix is `!cat`
 
 To install **Weather Cat**, follow these steps:
 
-> [Fork the repository](https://github.com/D3FaltXD/weather-cat/fork) 
+> [Fork the repository](https://github.com/kushvanth7/Weather-Cat)
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/D3FaltXD/weather-cat.git
+sudo git clone https://github.com/kushvanth7/Weather-Cat
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/D3FaltXD/weather-cat.git
+git clone https://github.com/kushvanth7/Weather-Cat
 ```
 > Put the Bot Token and Open weather API Key in main.py
 
