@@ -3,8 +3,8 @@
 <br><br>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/kushvanth7/Weather-Cat)
-![GitHub stars](https://img.shields.io/github/stars/D3FaltXD/Weather-Cat)
-![GitHub forks](https://img.shields.io/github/forks/D3FaltXD/Weather-Cat)
+![GitHub stars](https://img.shields.io/github/stars/kushvanth7/Weather-Cat)
+![GitHub forks](https://img.shields.io/github/forks/kushvanth7/Weather-Cat)
 <br>
 <br>
 <br>
@@ -15,7 +15,7 @@
 # About
 
 Meow!<br>
-Welcome, welcome! I'm Weather Cat, and I'm here to make your day a whole lot better! With my expertise in weather forecasting, you'll never have to worry about stepping out unprepared for the elements. I'll let you know if it's going to be a sunny day, a rainy one, or if you need to pack an umbrella and some boots.
+Welcome, welcome! I'm Weather Cat, and I'm here to make your day a lot better! With my expertise in weather forecasting, you'll never have to worry about stepping out unprepared for the elements. I'll let you know if it's going to be a sunny day, a rainy one, or if you need to pack an umbrella and some boots.
 
 Bot prefix is `!cat`
 
@@ -44,7 +44,7 @@ Bot prefix is `!cat`
 # Features
 
 - **Air Quality Index Prediction:** Weather Cat can also provide real-time air quality index (AQI) predictions for your location, helping you make informed decisions about outdoor activities.
-- **Weather Forecasting:** Weather Cat uses real-time data to provide accurate weather forecasting for your location, including temperature, wind speed, humidity, and more. You can even ask for a forecast for a specific day in the future!
+- **Weather Forecasting:** Weather Cat uses real-time data to accurately forecast your location, including temperature, wind speed, humidity, and more. You can even ask for a forecast for a specific day!
 - **Event Planning:** Planning an event can be a hassle, but not with Weather Cat! Simply tell the bot what kind of event you're planning, and it will help you with suggestions for venues, activities, and more.
 - **Cat GPT Integration:** Feeling lonely or just want someone to talk to? Weather Cat is always ready to chat with you. Its Chat GPT integration allows you to have fun, engaging conversations on any topic you want.
 - **Chat GPT Integration:** Feeling lonely or just want someone to talk to? Weather Cat is always ready to chat with you. Its Chat GPT integration allows you to have fun, engaging conversations on any topic you want.
@@ -79,7 +79,7 @@ git clone https://github.com/kushvanth7/Weather-Cat
 
 # Tech-Stack
 
-Built with Python and lots of cat
+Built with Python and lots of cats
 
 <br>
 <br>
@@ -88,7 +88,7 @@ Built with Python and lots of cat
 
 | S.N | issue Name |
 | --- | --- |
-|1 | AQI seems like a sphaghetti need  a bettr code|
+|1 | AQI seems like a spaghetti needs  a better code|
 |2 | Not all city data is being fetched |
 | 3 | Add more functionalities related to weather |
 | 4| Integrate a backend? |
